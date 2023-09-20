@@ -1,0 +1,15 @@
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.csproj.AssemblyReference.cache
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.csproj.SuggestedBindingRedirects.cache
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.AddShoes.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.AddUser.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.DirectBuy.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.GetShoes.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.LoadingForm.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.Loginform.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.Main_menu.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.Properties.Resources.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.ShoesDetail.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.UscDetail.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.UserCart.resources
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.csproj.GenerateResource.cache
+C:\Users\2km12\source\repos\BMSmall\BMSmall1201\BMSmall\obj\Release\BMSmall.csproj.CoreCompileInputs.cache
